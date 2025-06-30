@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://infracyb.vercel.app/</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/services/strategic-accompaniment</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/about</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/blog</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/contact</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/services/cybersecurity</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/services/it-management</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/services/automation</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/services/development</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/team</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/careers</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/blog/future-of-cloud-computing</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/blog/securing-business-cyber-threats</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/blog/ai-implementation-guide</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://infracyb.vercel.app/services</loc>
+  <lastmod>2025-06-22T11:03:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
